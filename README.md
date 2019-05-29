@@ -3,211 +3,322 @@ Must-know algorithms written in C++
 
 
 - [ ] (a) Number Theory
-  Prime Number Generation  (Sieve, Segmented Sieve) 
+  1. Prime Number Generation  (Sieve, Segmented Sieve) 
   
-  Euler Totient Theorem
+  2. Euler Totient Theorem
   
-  Fermat’s Theorem
+  3. Fermat’s Theorem
   
-  HCF & LCM (Euclid) 
+  4. HCF & LCM (Euclid) 
   
-  Linear Diophantine Equations (Extended Euclid)
+  5. Linear Diophantine Equations (Extended Euclid)
   
-  Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
+  6. Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
   
-  Cycle Finding (Floyd Algo and Brent Algo)
+  7. Cycle Finding (Floyd Algo and Brent Algo)
   
-  Integer Factorization (Trial Division , Pollard Rho method)
+  8. Integer Factorization (Trial Division , Pollard Rho method)
   
-  Lucas Theorem  (Simple & Advance)
+  9. Lucas Theorem  (Simple & Advance)
   
-  Chinese Remainder Theorem
+  10. Chinese Remainder Theorem
   
-  Wilson Theorem
+  11. Wilson Theorem
   
-  Miller - Rabin Primality Testing
+  12. Miller - Rabin Primality Testing
   
-  Perfect Numbers
+  13. Perfect Numbers
   
-  Goldbach Conjecture
+  14. Goldbach Conjecture
 
 - [ ] (b) Probability
-  Basic Probability and Conditional Probability
-  Random Variables
-  Probability Generating Functions
-  Expectation
-  Probability Distribution [Binomial, Poisson, Normal,Bernoulli]
+  1. Basic Probability and Conditional Probability
+  
+  2. Random Variables
+  
+  3. Probability Generating Functions
+  
+  4. Expectation
+  
+  5. Probability Distribution [Binomial, Poisson, Normal,Bernoulli]
 
 - [ ] (c) Counting
-  Pigeonhole principle
-  Inclusion Exclusion
-  Special Numbers  [Stirling,Fibonacci,Catalan, Eulerian, Harmonic, Bernoulli]
-  Polya Counting
-  Burnside lemma
+  1. Pigeonhole principle
+  
+  2. Inclusion Exclusion
+  
+  3. Special Numbers  [Stirling,Fibonacci,Catalan, Eulerian, Harmonic, Bernoulli]
+  
+  4. Polya Counting
+  
+  5. Burnside lemma
 
 - [ ] (d) Permutation Cycles
 
 - [ ] (e) Linear Algebra
-  Addition And Subtraction Of Matrices
-  Multiplication ( Strassen's algorithm ), Logarithmic exponentiation
-  Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ]
-  Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination]
-  Solving System Of Linear Equations
-  Matrix Exponentiation To Solve Recurrences
-  Eigenvalues And Eigen vector
-  Roots of a polynomial [ Prime factorization of a polynomial, Integer roots of a polynomial]
-  Lagrange Interpolation
+  1. Addition And Subtraction Of Matrices
+  
+  2. Multiplication ( Strassen's algorithm ), Logarithmic exponentiation
+  
+  3. Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ]
+  
+  4. Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination]
+  
+  5. Solving System Of Linear Equations
+  
+  6. Matrix Exponentiation To Solve Recurrences
+  
+  7. Eigenvalues And Eigen vector
+  
+  8. Roots of a polynomial [ Prime factorization of a polynomial, Integer roots of a polynomial]
+  
+  9. Lagrange Interpolation
 
 - [ ] (e) Game Theory
-  Basic Concepts & Nim Game [Grundy Theorem , Grundy Number]
-  Hackenbush
+  1. Basic Concepts & Nim Game [Grundy Theorem , Grundy Number]
+  
+  2. Hackenbush
 
 - [ ] (f) Group Theory
-  Burnside Lemma
-  Polya's Theorem
+  1. Burnside Lemma
+  
+  2. Polya's Theorem
 
   ##### Graphs:
 
 - [ ] (a) Graph Representation
-  Adjacency Matrix 
-  Adjacency List
-  Incidence Matrix
-  Edge List
+  1. Adjacency Matrix 
+  
+  2. Adjacency List
+  
+  3. Incidence Matrix
+  
+  4. Edge List
 
 - [ ] (b) Graph Types
-  Directed
-  Undirected
-  Weighted
-  Unweighted
-  Planar
-  Hamilton
-  Euler
-  Special Graphs
+  1. Directed
+  
+  2. Undirected
+  
+  3. Weighted
+  
+  4. Unweighted
+  
+  5. Planar
+  
+  6. Hamilton
+  
+  7. Euler
+  
+  8. Special Graphs
 
 - [ ] (c) DFS & It’s Application
-  Cycle Detection
-  Articulation Points
-  Bridges
-  Strongly Connected Component
-  Connected Component
-  Path Finding
-  Solving Maze
-  Biconnectivity in Graph
-  Topological Sorting
-  Bipartite Checking
-  Planarity Testing
-  Flood-fill algorithm
+  1. Cycle Detection
+  
+  2. Articulation Points
+  
+  3. Bridges
+  
+  4. Strongly Connected Component
+  
+  5. Connected Component
+  
+  6. Path Finding
+  
+  7. Solving Maze
+  
+  8. Biconnectivity in Graph
+  
+  9. Topological Sorting
+  
+  10. Bipartite Checking
+  
+  11. Planarity Testing
+  
+  12. Flood-fill algorithm
 
 - [ ] (d) BFS & It’s Application
-  Shortest Path (No. Of Edges)
-  Bipartite Checking
-  Connected Components
+  1. Shortest Path (No. Of Edges)
+  
+  2. Bipartite Checking
+  
+  3. Connected Components
 
 - [ ] (d) Minimum Spanning Tree
-  Prim’s Algorithm
-  Kruskal Algorithm
+  1. Prim’s Algorithm
+  
+  2. Kruskal Algorithm
 
 - [ ] (d) Single Source Shortest-Path 
-  Dijkstra
-  Bellman Ford
+  1. Dijkstra
+  
+  2. Bellman Ford
 
 - [ ] (e) All pair Shortest Path
-  Floyd Warshall’s Algorithm
+  1. Floyd Warshall’s Algorithm
 
 - [ ] (f) Euler Tour
 
 - [ ] (g) Flow
-  Ford-Fulkerson [PFS,DFS,BFS]
-  Dinic's Algorithm
-  Min Cost - Max Flow  [Successive Shortest Path Algo,Cycle Cancelling Algorithm]
-  Max Weighted BPM  [Kuhn Munkres algorithm/Hungarian Method]
-  Stoer Wagner Min-Cut Algo
-  Hop-Kraft BPM
-  Edmond Blossom Shrinking Algorithm
+  1. Ford-Fulkerson [PFS,DFS,BFS]
+  
+  2. Dinic's Algorithm
+  
+  3. Min Cost - Max Flow  [Successive Shortest Path Algo,Cycle Cancelling Algorithm]
+  
+  4. Max Weighted BPM  [Kuhn Munkres algorithm/Hungarian Method]
+  
+  5. Stoer Wagner Min-Cut Algo
+  
+  6. Hop-Kraft BPM
+  
+  7. Edmond Blossom Shrinking Algorithm
 
 - [ ] (h) Other Important Topics On Graphs
-  2-SAT,
-  LCA 
-  Maximum Cardinality Matching
-  Application Flow
-  Min Path Cover Over Dag
-  Independent Edge Disjoint Path
-  Minimum Vertex Cover
-  Maximum Independent Set
+  1. 2-SAT,
+  
+  2. LCA 
+  
+  3. Maximum Cardinality Matching
+  
+  4. Application Flow
+  
+  5. Min Path Cover Over Dag
+  
+  6. Independent Edge Disjoint Path
+  
+  7. Minimum Vertex Cover
+  
+  8. Maximum Independent Set
 
 - [ ] Data Structures
-  Arrays
-  Linked List
-  Trees (Binary Tree And Binary Search Tree)
-  Stacks
-  Queues
-  Heap
-  Hash Tables
-  Disjoint-Set Data Structures
-  Trie
-  Segment Tree
-  Binary Index Tree
-  Treap
+  1. Arrays
+  
+  2. Linked List
+  
+  3. Trees (Binary Tree And Binary Search Tree)
+  
+  4. Stacks
+  
+  5. Queues
+  
+  6. Heap
+  
+  7. Hash Tables
+  
+  8. Disjoint-Set Data Structures
+  
+  9. Trie
+  
+  10. Segment Tree
+  
+  11. Binary Index Tree
+  
+  12. Treap
 
 - [ ] Searching And Sorting
-  Linear Search
-  BInary Search
-  Ternary Search
-  Selection Sort
-  Bubble Sort
-  Insertion Sort
-  Merge Sort
-  Quick Sort
-  Quick Select
-  Heap Sort
-  Radix Sort
-  Counting Sort
+  1. Linear Search
+  
+  2. Binary Search
+  
+  3. Ternary Search
+  
+  4. Selection Sort
+  
+  5. Bubble Sort
+  
+  6. Insertion Sort
+  
+  7. Merge Sort
+  
+  8. Quick Sort
+  
+  9. Quick Select
+  
+  10. Heap Sort
+  
+  11. Radix Sort
+  
+  12. Counting Sort
 
 - [ ] Greedy
-  Classical Problems of Greedy & Concept
+  1. Classical Problems of Greedy & Concept
   example : Fractional Knapsack
 
 - [ ] Dynamic Programming Classical Problems
-  Edit Distance
-  Egg Dropping Puzzle
-  Integer Knapsack
-  Largest Independent Set
-  Longest Biotonic Subsequence
-  Longest Common Subsequence
-  Longest Common Substring
-  Longest Increasing Subsequence
-  Longest Palindromic Subsequence
-  Longest Palindromic Substring
-  Longest Substring Without Repeating Character
-  Matrix Chain Multiplication
-  Max Size Square Submatrix With One
-  Maximum Length Chain Pairs
-  Maximum Sum Increasing Subsequence
-  Optimal Binary Search Tree
-  Palindrome Partition Problem
-  Set Partition Problem
-  Subset Sum
-  Word Wrap Problem
+  1. Edit Distance
+  
+  2. Egg Dropping Puzzle
+  
+  3. Integer Knapsack
+  
+  4. Largest Independent Set
+  
+  5. Longest Biotonic Subsequence
+  
+  6. Longest Common Subsequence
+  
+  7. Longest Common Substring
+  
+  8. Longest Increasing Subsequence
+  
+  9. Longest Palindromic Subsequence
+  
+  10. Longest Palindromic Substring
+  
+  11. Longest Substring Without Repeating Character
+  
+  12. Matrix Chain Multiplication
+  
+  13. Max Size Square Submatrix With One
+  
+  14. Maximum Length Chain Pairs
+  
+  15. Maximum Sum Increasing Subsequence
+  
+  16. Optimal Binary Search Tree
+  
+  17. Palindrome Partition Problem
+  
+  18. Set Partition Problem
+  
+  19. Subset Sum
+  
+  20. Word Wrap Problem
 
 - [ ] Dynamic Programming  Advanced Techniques
-  DP + Tree
-  DP + Bit Masking
-  DP + Binary Search
-  DP + Graph
-  DP + Matrix Exponentiation
-  DP + Probability Space
-  DP + Crack Recurrence
+  1. DP + Tree
+  
+  2. DP + Bit Masking
+  
+  3. DP + Binary Search
+  
+  4. DP + Graph
+  
+  5. DP + Matrix Exponentiation
+  
+  6. DP + Probability Space
+  
+  7. DP + Crack Recurrence
 
 - [ ] Divide & Conquer
-  Classical Problems & Concepts
-  Merge Sort
-  Closest Pair Points
+  1. Classical Problems & Concepts
+  
+  2. Merge Sort
+  
+  3. Closest Pair Points
 
 - [ ] Other Algorithm Design Techniques
-  BackTracking
-  Man In Middle
-  Newton-Raphson to reach the fixed point
-  Brute Force
-  Constructive Algo
-  Sliding Window
-  Pancake Sorting
+  1. BackTracking
+  
+  2. Man In Middle
+  
+  3. Newton-Raphson to reach the fixed point
+  
+  4. Brute Force
+  
+  5. Constructive Algo
+  
+  6. Sliding Window
+  
+  7. Pancake Sorting

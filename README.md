@@ -3,19 +3,32 @@ Must-know algorithms written in C++
 
 
 - [ ] (a) Number Theory
-  Prime Number Generation  (Sieve, Segmented Sieve)
+  Prime Number Generation  (Sieve, Segmented Sieve) 
+  
   Euler Totient Theorem
+  
   Fermat’s Theorem
+  
   HCF & LCM (Euclid) 
+  
   Linear Diophantine Equations (Extended Euclid)
+  
   Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
+  
   Cycle Finding (Floyd Algo and Brent Algo)
+  
   Integer Factorization (Trial Division , Pollard Rho method)
+  
   Lucas Theorem  (Simple & Advance)
+  
   Chinese Remainder Theorem
+  
   Wilson Theorem
+  
   Miller - Rabin Primality Testing
+  
   Perfect Numbers
+  
   Goldbach Conjecture
 
 - [ ] (b) Probability

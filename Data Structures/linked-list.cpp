@@ -127,7 +127,6 @@ int main(void){
 	string result = search(head,val);
 	cout << result;
 
-
 	cout << "Reversing\n";
 	head = reverse(head);
 	traverse(head);

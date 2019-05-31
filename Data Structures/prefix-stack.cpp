@@ -11,7 +11,7 @@ int prefix_evaluator(string& exp){
 	
 	stack<int> s;
 
-	while(exp[i]!='\0'){
+	while(exp[i] != '\0'){
 
 
 		if(isdigit(exp[i])){

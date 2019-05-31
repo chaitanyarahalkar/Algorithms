@@ -6,31 +6,19 @@ Must-know algorithms written in C++
   1. Prime Number Generation  (Sieve, Segmented Sieve) 
   
   2. Euler Totient Theorem
-  
   3. Fermat’s Theorem
-  
   4. HCF & LCM (Euclid) 
-  
   5. Linear Diophantine Equations (Extended Euclid)
-  
   6. Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
-  
   7. Cycle Finding (Floyd Algo and Brent Algo)
-  
   8. Integer Factorization (Trial Division , Pollard Rho method)
-  
   9. Lucas Theorem  (Simple & Advance)
-  
   10. Chinese Remainder Theorem
-  
   11. Wilson Theorem
-  
   12. Miller - Rabin Primality Testing
-  
   13. Perfect Numbers
-  
   14. Goldbach Conjecture
-
+  
 - [ ] (b) Probability
   1. Basic Probability and Conditional Probability
   
@@ -155,8 +143,9 @@ Must-know algorithms written in C++
   2. Bellman Ford
 
 - [ ] (e) All pair Shortest Path
-  1. Floyd Warshall’s Algorithm
-
+  
+1. Floyd Warshall’s Algorithm
+  
 - [ ] (f) Euler Tour
 
 - [ ] (g) Flow

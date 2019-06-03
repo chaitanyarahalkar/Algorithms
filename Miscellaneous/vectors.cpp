@@ -1,5 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
+#include <vector>
+
+using std::cout;
+using std::vector;
 
 void vector_operations(vector<int> v){
 

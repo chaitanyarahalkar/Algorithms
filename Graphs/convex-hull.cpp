@@ -24,7 +24,7 @@ vector<Point> convex_hull(Point points[],int n){
 
 	vector<Point> v;
 	if(n < 3){
-		
+
 		v.push_back((Point){0,0});
 		return v;
 	}
@@ -57,7 +57,7 @@ vector<Point> convex_hull(Point points[],int n){
 int main(void){
 
 
-	Point points[] = {{0, 3}, {2, 2}, {1, 1}, {2, 1}, 
+	 Point points[] = {{0, 3}, {2, 2}, {1, 1}, {2, 1}, 
                       {3, 0}, {0, 0}, {3, 3}}; 
 
 

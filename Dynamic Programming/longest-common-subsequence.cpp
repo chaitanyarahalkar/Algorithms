@@ -33,7 +33,7 @@ int main(void){
 
 	int result = lcs(x,y,m,n);
 
-	assert(result==4);
+	assert(result == 4);
 
 	cout << "LCS of the given two sequences is " << result << "\n";
 
